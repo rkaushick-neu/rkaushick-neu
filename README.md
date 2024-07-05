@@ -5,9 +5,9 @@ Welcome to my GitHub repository, and thanks for stopping by!
 ### A Bit About Me
 - 🎓 I'm a graduate student pursuing Master of Science in Information Systems at Northeastern University, Toronto.
 - 🔭 I'm currently exploring fields of data science particularly machine learning & natural langugae processing.
-- 💡 Checkout my [Portfolio](https://rkaushick-neu.github.io/portfolio/).
 - 🕵️‍♂️ I enjoy unravelling the stories that lie behind a sea of data.
 - 🎸 I love playing acoustic guitar in my leisure time.
+- 💡 Checkout my [Portfolio](https://rkaushick-neu.github.io/portfolio/).
 
 ### Projects I'm Working On
 - Novel-ty: Book Recommender System using Content Based & Collaborative Filtering Approach (link coming soon)
