@@ -8,7 +8,7 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - 🕵️‍♂️ I enjoy unravelling the stories that lie behind a sea of data.
 - 🎸 I love playing acoustic guitar in my leisure time.
 - 💡 Checkout my [Portfolio](https://rkaushick-neu.github.io/portfolio/).
-- 🔍 Looking to put my passion for data & softawere engineering to good use in the transport, medical, finance or tech industry!
+- 🏁 Passionate about applying data and software engineering expertise to make a meaningful difference in the transportation, medical, finance, or tech sectors!
 
 ### Projects I'm Working On
 - [City Traffic Forecasting - Using Statistical, Machine Learning & Deep Learning Modelling](https://github.com/rkaushick-neu/traffic-forecasting)
