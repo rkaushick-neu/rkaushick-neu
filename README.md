@@ -15,6 +15,9 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - [Web Analytics for City of Toronto's Open Data Portal](https://github.com/rkaushick-neu/toronto-od-web-analytics)
 - [Apple Stock Forecasting using Machine Learning & Deep Learning](https://github.com/rkaushick-neu/stock-forecasting-ml-dl/tree/simpler_models)
 
+### Challenges I'm Working On
+- [Daily LeetCode75 Challenge](https://github.com/rkaushick-neu/dsa/)
+
 📬 Want to collaborate? Reach out to me:
 - 📧 [Email](mailto:rishabh.kaushick@gmail.com)
 - 🖇️[LinkedIn](https://www.linkedin.com/in/rishabh-kaushick/)
