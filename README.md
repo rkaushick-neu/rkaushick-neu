@@ -12,7 +12,7 @@ Welcome to my GitHub repository, and thanks for stopping by!
 
 ### Projects I'm Working On
 - [City Traffic Forecasting - Using Statistical, Machine Learning & Deep Learning Modelling](https://github.com/rkaushick-neu/traffic-forecasting)
-- [Web Analytics for City of Toronto's Open Data Portal](https://github.com/rkaushick-neu/toronto-od-web-analytics)
+- [Web Analytics for City of Toronto's Open Data Portal](https://github.com/rkaushick-neu/open-data-web-analytics)
 - [Apple Stock Forecasting using Machine Learning & Deep Learning](https://github.com/rkaushick-neu/stock-forecasting-ml-dl/tree/simpler_models)
 
 ### Challenges I'm Working On
