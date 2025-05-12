@@ -18,6 +18,11 @@ Welcome to my GitHub repository, and thanks for stopping by!
 ### Challenges I'm Working On
 - [Daily LeetCode75 Challenge](https://github.com/rkaushick-neu/dsa/)
 
+### Checkout My Streak!
+(Excluding weekends because everyone deserves a break)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rkaushick-neu&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 📬 Want to collaborate? Reach out to me:
 - 📧 [Email](mailto:rishabh.kaushick@gmail.com)
 - 🖇️[LinkedIn](https://www.linkedin.com/in/rishabh-kaushick/)
