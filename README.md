@@ -7,7 +7,7 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - 🔭 I'm currently exploring fields of data science and software development.
 - 🕵️‍♂️ I enjoy unravelling the stories that lie behind a sea of data.
 - 🎸 I love playing acoustic guitar in my leisure time.
-- 💡 Checkout my [Portfolio](https://rkaushick-neu.github.io/portfolio/).
+- 💡 Checkout my [Portfolio Website](https://rishabhkaushick.vercel.app/) built using NextJS, Tailwind CSS, Contentlayer and deployed on Vercel.
 - 🏁 Passionate about applying data and software engineering expertise to make a meaningful difference in the transportation, medical, finance, or tech sectors!
 
 ### Projects I'm Working On
