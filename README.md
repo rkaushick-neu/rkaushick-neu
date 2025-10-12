@@ -14,7 +14,6 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - [Web Analytics for City of Toronto's Open Data Portal](https://github.com/rkaushick-neu/open-data-web-analytics)
 - [Vibe Cooking: Meal Planner Agent!](https://github.com/gtshinde/vAIbe_cooking)
 - [City Traffic Forecasting - Using Statistical, Machine Learning & Deep Learning Modelling](https://github.com/rkaushick-neu/traffic-forecasting)
-- [Daily LeetCode](https://github.com/rkaushick-neu/dsa/)
 
 ### I'm Learning ...
 - 🚧 [Claude with Amazon AWS Bedrock by Anthropic](https://github.com/rkaushick-neu/claude-aws-bedrock) (in progress): Learning about Prompt Evaluations, Prompt Engineering, Tool Use, RAG, MCP & Agents - all in one course!
