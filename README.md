@@ -21,7 +21,7 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - ☑️ [Project: Building Ambient Agents with LangGraph by LangChain](https://github.com/rkaushick-neu/agents-from-scratch)
 
 ### Checkout My Streak!
-(Excluding weekends because everyone deserves a break)
+(Excluding weekends because even cracked engineers deserve a break)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rkaushick-neu&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
