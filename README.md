@@ -7,7 +7,7 @@ Welcome to my GitHub repository, and thanks for stopping by!
 - 🔭 I'm currently working with Generative AI, Agents, AI Automation Workflows on the cloud.
 - 🏁 Passionate about applying AI and software engineering expertise to build meaningful solutions that make a difference!
 - 🎸 I like to unwind with my acoustic guitar in my leisure time.
-- 💡 Checkout my [Portfolio Website](https://rishabhkaushick.vercel.app/) built using NextJS, Tailwind CSS, Contentlayer and deployed on Vercel.
+- 💡 Checkout my [Portfolio Website](https://rishabhkaushick.com/) built using NextJS, Tailwind CSS, Contentlayer and deployed on Vercel.
 
 ### I'm Working On ...
 - [LLMs for Matching Messy Transactions to Merchants](https://github.com/rkaushick-neu/fuzzy_match_llms)
